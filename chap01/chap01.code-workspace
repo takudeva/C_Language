@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../chap02"
+		},
+		{
+			"path": "../chap03"
+		},
+		{
+			"path": "../chap04"
+		},
+		{
+			"path": "../chap05"
+		}
+	],
+	"settings": {}
+}
