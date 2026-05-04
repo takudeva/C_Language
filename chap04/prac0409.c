@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int no;
+
+    printf("正の整数: ");
+    scanf("%d", &no);
+
+    while (no > 0) {
+        putchar('+');
+        no--;
+        putchar('-');
+        no--;
+    }
+
+    return 0;
+}

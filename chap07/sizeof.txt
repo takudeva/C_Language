@@ -1,0 +1,17 @@
+この処理系のchar型は符号付きです。
+CHAR_BITS = 8
+
+sizeof(char) = 1
+sizeof(short) = 2
+sizeof(long) = 8
+sizeof(long long) = 8
+
+sizeof(int) = 4
+sizeof(double) = 8
+
+sizeof(a) = 4
+sizeof(x) = 8
+
+sizeof(a + b) = 4
+sizeof(a + y) = 8
+sizeof(x + y) = 8
